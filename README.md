@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🚀 Full Stack Developer | Java Microservices | Spring Boot | React | Next.js |Gen AI
+Profile views Followers Stars
 <!--
 **Sarathhub007/Sarathhub007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
