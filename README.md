@@ -1,10 +1,10 @@
 ## Hi there 
 I am Sarath Chandra 
-I am a full Stack devloper
+I am a full-stack developer
 I am  currently working on my project 
-you can Contact ME BY :)
+You can Contact ME BY :)
 ✉️:ilamsarathchandra@gmail.com
-instagram:sarath_._.007
+Instagram:sarath_._.007
 
 
 
