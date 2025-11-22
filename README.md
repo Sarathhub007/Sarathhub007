@@ -1,10 +1,10 @@
 ## Hi there 
-I am Sarath Chandra 
-I am a full-stack developer
-I am  currently working on my project 
-You can Contact ME BY :)
-✉️:ilamsarathchandra@gmail.com
-Instagram:sarath_._.007
+- I am Sarath Chandra 
+- I am a full-stack developer
+- I am  currently working on my project 
+- You can Contact ME BY :)
+- ✉️:ilamsarathchandra@gmail.com
+- Instagram:sarath_._.007
 
 
 
