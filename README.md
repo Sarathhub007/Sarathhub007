@@ -1,47 +1,49 @@
-# Hi there 👋, I'm Sarath Chandra
+# Hi there 👋 I'm Sarath Chandra
 
 🚀 **Full-Stack Developer**  
-💻 Passionate about building scalable web applications  
-🛠️ Currently working on multiple personal and academic projects  
+💻 Building web apps & solving real-world problems  
+🌱 Continuously learning and leveling up skills
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering student  
-- 🌱 Continuously learning full-stack development and backend systems  
-- 🔧 Interested in modern web technologies, clean architecture, and real-world projects  
-- ⚡ Focused on improving problem-solving and system design skills  
+- 🧑‍💻 Full-Stack Developer
+- ✨ Working on personal and academic projects
+- 💡 Passion for clean code, scalable apps, and real-world impact
+- 🌍 Based in Andhra Pradesh, India
+
+---
+
+## 📊 GitHub Stats
+
+![Sarath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarathhub007&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathhub007&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Sarathhub007&theme=tokyonight)
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React, Next.js
+**Frontend:**  
+HTML | CSS | JavaScript | React | Next.js
 
-**Backend**
-- Node.js, Express
-- REST APIs
+**Backend:**  
+Node.js | Express
 
-**Database**
-- PostgreSQL, MongoDB
-- Prisma
+**Database:**  
+MongoDB | PostgreSQL
 
-**Tools & Others**
-- Git & GitHub
-- Linux
-- VS Code
+**Tools & Platforms:**  
+Git | GitHub | VS Code | Linux
 
 ---
 
-## 📌 Current Focus
+## 📫 Contact Me
 
-- Building full-stack projects  
-- Implementing authentication & authorization  
-- Learning scalable backend design  
-- Improving UI/UX and performance  
+✉️ **Email:** ilamsarathchandra@gmail.com  
+📸 **Instagram:** [sarath_._.007](https://instagram.com/sarath_._.007)
 
+---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Feel free to explore my repositories and connect!
