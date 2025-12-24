@@ -1,49 +1,38 @@
-# Hi there 👋 I'm Sarath Chandra
+# Hi there 👋, I'm Sarath Chandra
 
 🚀 **Full-Stack Developer**  
-💻 Building web apps & solving real-world problems  
-🌱 Continuously learning and leveling up skills
+💻 Passionate about building scalable web applications  
+🛠️ Currently working on multiple personal and academic projects  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧑‍💻 Full-Stack Developer
-- ✨ Working on personal and academic projects
-- 💡 Passion for clean code, scalable apps, and real-world impact
-- 🌍 Based in Andhra Pradesh, India
+- 🎓 Computer Science & Engineering student  
+- 🌱 Continuously learning full-stack development and backend systems  
+- 🔧 Interested in modern web technologies, clean architecture, and real-world projects  
+- ⚡ Focused on improving problem-solving and system design skills  
 
 ---
 
-## 📊 GitHub Stats
+🧰 Tech Stack
+🌐 Frontend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/> </p>
+⚙️ Backend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/> </p>
+🗄️ Database
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma"/> </p>
+🛠️ Tools & Others
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> </p>
 
-![Sarath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarathhub007&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathhub007&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Sarathhub007&theme=tokyonight)
+## 📌 Current Focus
 
----
-
-## 🧰 Tech Stack
-
-**Frontend:**  
-HTML | CSS | JavaScript | React | Next.js
-
-**Backend:**  
-Node.js | Express
-
-**Database:**  
-MongoDB | PostgreSQL
-
-**Tools & Platforms:**  
-Git | GitHub | VS Code | Linux
+- Building full-stack projects  
+- Implementing authentication & authorization  
+- Learning scalable backend design  
+- Improving UI/UX and performance  
 
 ---
 
-## 📫 Contact Me
 
-✉️ **Email:** ilamsarathchandra@gmail.com  
-📸 **Instagram:** [sarath_._.007](https://instagram.com/sarath_._.007)
-
----
-
-⭐ Feel free to explore my repositories and connect!
+⭐ Feel free to explore my repositories and connect with me!
