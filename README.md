@@ -43,13 +43,5 @@
 - Learning scalable backend design  
 - Improving UI/UX and performance  
 
----
-
-## 📫 Contact Me
-
-- ✉️ Email: **ilamsarathchandra@gmail.com**  
-- 📸 Instagram: **sarath_._.007**
-
----
 
 ⭐ Feel free to explore my repositories and connect with me!
