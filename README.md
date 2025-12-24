@@ -1,26 +1,55 @@
-## Hi there 
-- I am Sarath Chandra 
-- I am a full-stack developer
-- I am  currently working on my projects 
-- You can Contact ME BY :)
-- ✉️:ilamsarathchandra@gmail.com
-- Instagram:sarath_._.007
+# Hi there 👋, I'm Sarath Chandra
 
+🚀 **Full-Stack Developer**  
+💻 Passionate about building scalable web applications  
+🛠️ Currently working on multiple personal and academic projects  
 
+---
 
+## 👨‍💻 About Me
 
+- 🎓 Computer Science & Engineering student  
+- 🌱 Continuously learning full-stack development and backend systems  
+- 🔧 Interested in modern web technologies, clean architecture, and real-world projects  
+- ⚡ Focused on improving problem-solving and system design skills  
 
-<!--
-**Sarathhub007/Sarathhub007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- HTML, CSS, JavaScript
+- React, Next.js
+
+**Backend**
+- Node.js, Express
+- REST APIs
+
+**Database**
+- PostgreSQL, MongoDB
+- Prisma
+
+**Tools & Others**
+- Git & GitHub
+- Linux
+- VS Code
+
+---
+
+## 📌 Current Focus
+
+- Building full-stack projects  
+- Implementing authentication & authorization  
+- Learning scalable backend design  
+- Improving UI/UX and performance  
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: **ilamsarathchandra@gmail.com**  
+- 📸 Instagram: **sarath_._.007**
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
