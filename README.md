@@ -34,14 +34,11 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarathhub007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathhub007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarathhub007&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarathhub007&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathhub007&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sarathhub007&theme=tokyonight)
 
 
 ⭐ Feel free to explore my repositories and connect with me!
