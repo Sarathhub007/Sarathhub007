@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sarath Chandra
+# Hi there, I'm Sarath Chandra
 
 🚀 **Full-Stack Developer**  
 💻 Passionate about building scalable web applications  
